@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+<!-- The following list contains information regarding each individual order.The total processing time of each order is estimated in minutes. The pre-orders are scheduled as requested by the user -->
+	<order status="live">
+		<order_id>00001</order_id>
+		<processing_time>13:42</processing_time>
+	</order>
+	<order status="live">
+		<order_id>00002</order_id>
+		<processing_time>33:12</processing_time>
+	</order>
+	<order status="live">
+		<order_id>00003</order_id>
+		<processing_time>13:42</processing_time>
+	</order>
+	<order status="pre-order">
+		<order_id>00004</order_id>
+		<processing_time>93:40</processing_time>
+	</order>
+	<order status="live">
+		<order_id>00005</order_id>
+		<processing_time>32:11</processing_time>
+	</order>
+	<order status="live">
+		<order_id>00006</order_id>
+		<processing_time>27:03</processing_time>
+	</order>
+	<order status="live">
+		<order_id>00007</order_id>
+		<processing_time>19:21</processing_time>
+	</order>
+	<order status="pre-order">
+		<order_id>00008</order_id>
+		<processing_time>20:33</processing_time>
+	</order>
+	<order status="live">
+		<order_id>00009</order_id>
+		<processing_time>21:19</processing_time>
+	</order>
+	<order status="pre-order">
+		<order_id>00010</order_id>
+		<processing_time>24:31</processing_time>
+	</order>
+</orders>
